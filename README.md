@@ -2,7 +2,7 @@
 
 A web-based **Sorting Visualizer** built with **React** that helps you understand how different sorting algorithms work through interactive animations.
 
-![Sorting Visualizer Screenshot]([./screenshot.png](https://github.com/user-attachments/assets/d3127386-8aa4-43be-9662-c752f0d47664))  
+![Sorting Visualizer Screenshot]([[./screenshot.png](https://github.com/user-attachments/assets/d3127386-8aa4-43be-9662-c752f0d47664)](https://github.com/Alifiyabohra/sorting-visualiser/issues/1#issue-3324553927))  
 *Example of the visualizer in action.*
 
 ---
